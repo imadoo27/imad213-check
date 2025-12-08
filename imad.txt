@@ -1,2 +1,11 @@
-poppoadmin213
-
+###
+name=ساعة
+price=1200
+description= ساعة ذكية جودة عالية
+photo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6zHHR5-eKmTwLJJwDjwtyS_FmZkxwI4BAA&s
+###
+name=ساعة ذكية
+price=1500
+description= ساعة ذكية جودة عالية
+photo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6zHHR5-eKmTwLJJwDjwtyS_FmZkxwI4BAA&s
+###
